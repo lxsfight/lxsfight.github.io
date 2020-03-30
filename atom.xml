@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lxs-lm.xyz/"/>
-  <updated>2020-03-30T09:52:44.708Z</updated>
+  <updated>2020-03-30T10:39:07.354Z</updated>
   <id>https://lxs-lm.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lxs-lm.xyz/2020/03/30/%E6%90%AD%E5%BB%BABlog/"/>
     <id>https://lxs-lm.xyz/2020/03/30/%E6%90%AD%E5%BB%BABlog/</id>
     <published>2020-03-30T08:37:56.000Z</published>
-    <updated>2020-03-30T09:52:44.708Z</updated>
+    <updated>2020-03-30T10:39:07.354Z</updated>
     
     <content type="html"><![CDATA[<p>看着实验室的大佬们都搭建了自己的博客，自己手痒忍不住也搭建了一个简单的博客，在这里分享一下我搭建博客的步骤，方便大家快速有一个属于自己的博客！让我们开始吧。</p><a id="more"></a> <h3 id="搭建教程"><a href="#搭建教程" class="headerlink" title="搭建教程"></a>搭建教程</h3><p>网上关于Hexo搭建的教程很多，我就不重复造轮子了，在这里给大家推荐一下我使用的教程： <a href="https://zhuanlan.zhihu.com/c_1201860091307458560" target="_blank" rel="noopener">从零开始搭建你的Blog</a></p><p>我使用的主题是： <a href="https://github.com/fi3ework/hexo-theme-archer" target="_blank" rel="noopener">archer</a></p><p>这款主题比起简约风来说，相对好看一点，如果你喜欢你的Blog里面有很多图片的话，这是一个不错的选择</p><p>Hexo的主题很多，大家可以去 <a href="https://hexo.io/themes/" target="_blank" rel="noopener">Hexo主题</a> 挑选你喜欢的主题</p>]]></content>
     
@@ -32,8 +32,12 @@
     </summary>
     
     
+      <category term="Hexo" scheme="https://lxs-lm.xyz/categories/Hexo/"/>
+    
     
       <category term="Hexo" scheme="https://lxs-lm.xyz/tags/Hexo/"/>
+    
+      <category term="Hello World" scheme="https://lxs-lm.xyz/tags/Hello-World/"/>
     
   </entry>
   
